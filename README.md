@@ -1,6 +1,8 @@
 # PISTON
 A simple python module
+
 made by ClassicCatLinux
+
 (randomnerd41)
 
 # how to use
@@ -43,10 +45,15 @@ osname()
 
 # info:
 I AM NOT AT FAULT
+
 FOR ANY HARM DONE
+
 TO ANY SYSTEMS! 
+
 By using PISTON
+
 or a program with PISTON
+
 in it you agree to this.
 
 made by classiccatlinux (randomnerd41).
