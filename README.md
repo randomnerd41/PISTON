@@ -23,23 +23,23 @@ from PISTON import *
 
 clear() - clears the screen on any OS*.
 
-wait(wait time goes here) - waits however many seconds you put.
+wait(wait time goes here) - Waits however many seconds you put.
 
-cmd(command goes here) - os.system made more simple.
+ms(wait time goes here) - Wait however many milliseconds you put.
 
-ms(wait time goes here) - wait however many milliseconds you put.
+cmd(command goes here) - Os.system made more simple.
 
-update_debian_sudo()
+update_debian_sudo() - Updates any debian based linux systems with sudo.
 
-update_debian()
+update_debian() - Updates any debian based linux systems.
 
-debian_autoremove_sudo()
+debian_autoremove_sudo() - Removes any unused software installed.
 
-update_fedora_sudo()
+update_fedora_sudo() - Updates fedora and RHEL/clones with sudo.
 
-update_fedora()
+update_fedora() - Updates fedora and RHEL/clones.
 
-osname()
+osname() - Prints the OS name.
 
 *only tested on linux systems!
 
