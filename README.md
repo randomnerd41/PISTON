@@ -5,6 +5,8 @@ made by ClassicCatLinux
 
 (randomnerd41)
 
+# Version 1.0
+
 # how to use
 first make your python project file,
 
