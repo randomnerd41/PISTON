@@ -9,10 +9,9 @@ import shutil
 # ============
 
 # info:
-# alpha_patch3
+# v1.0
 # FOSS - AGPL 3.0
 # classiccatlinux (randomnerd41)
-# status: waiting for beta.
 
 # I AM NOT AT FAULT
 # FOR ANY HARM DONE
