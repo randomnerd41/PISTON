@@ -8,15 +8,16 @@ import shutil
 # == MODULE ==
 # ============
 
-# info:
-# v1.0
+# Info:
+# v1.1
 # FOSS - AGPL 3.0
 # classiccatlinux (randomnerd41)
 
+# Terms:
 # I AM NOT AT FAULT
 # FOR ANY HARM DONE
-# TO ANYSYSTEMS!
-# by using PISTON
+# TO ANY SYSTEMS!
+# By using PISTON
 # or a program with PISTON
 # in it you agree to this.
 
@@ -29,8 +30,8 @@ def clear():
 def wait(wt):
     time.sleep(wt)
     
-print("PISTON-alpha_patch3-#: The PISTON module was used in this program.")
-print("PISTON-#: LINK HERE")
+print("PISTON-#: The PISTON module was used in this program.")
+print("https://github.com/randomnerd41/PISTON")
 wait(5)
 clear()
 
