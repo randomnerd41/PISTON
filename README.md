@@ -1,11 +1,9 @@
 # PISTON
 A simple python module
 
-made by ClassicCatLinux
+made by classiccatlinux (randomnerd41)
 
-(randomnerd41)
-
-# Version 1.0
+# Version 1.1
 
 # how to use
 first make your python project file,
