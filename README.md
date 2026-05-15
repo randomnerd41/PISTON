@@ -43,7 +43,7 @@ osname() - Prints the OS name.
 
 *only tested on linux systems!
 
-# info:
+# info
 I AM NOT AT FAULT
 
 FOR ANY HARM DONE
@@ -56,10 +56,24 @@ or a program with PISTON
 
 in it you agree to this.
 
-made by classiccatlinux (randomnerd41).
+made by classiccatlinux (CCL or randomnerd41).
 
 FOSS - GPL 2.0
 
+# about me
+I make program that are:
+
+simple, easy to use, and 
+
+free and open source!
+
+My programs are ment to
+
+be taken apart and played with,
+
+this is why python + FOSS is
+
+so great!
 
 
 
