@@ -17,7 +17,7 @@ next at the very top of your main file type this:
 ```
 from PISTON import *
 ```
-***this will import: time, os, and sys***
+***this will import: time, os, shutil, and sys.**
 
 # funcs
 
